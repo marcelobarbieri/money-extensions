@@ -7,8 +7,4 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@main
-  
+    runs-on: ubuntu-latest 
